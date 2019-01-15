@@ -2,6 +2,12 @@ package com.company;
 
 import java.util.Scanner;
 
+/**Write a program to set up an array of places, Loop round and remove the vowels. Display the new words in console
+ *
+ * @version 1.0 11-1-2018
+ *
+ * @author Uday N
+ */
 
 
 public class RemoveVowels {
@@ -25,12 +31,4 @@ public class RemoveVowels {
     return result;
     }
 
-    public static void main(String[] args) {
-        RemoveVowels obj=new RemoveVowels();
-        Scanner sc =new Scanner(System.in);
-        String word=sc.nextLine();
-       // System.out.println("sume"+word);
-        System.out.println(obj.removeVowel(word));
-
-    }
 }

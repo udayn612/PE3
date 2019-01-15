@@ -3,6 +3,14 @@ package com.company;
 import java.util.ArrayList;
 import java.util.List;
 
+/**Write a program to create a ChessBoard pattern with the help of multidimensional array,
+ * where WWrepresents white color and BB represents Black color.
+ *
+ * @version 1.0 11-1-2018
+ *
+ * @author Uday N
+ */
+
 public class ChessBoardPattern {
 
     public String chessBoardPattern() {
@@ -16,13 +24,9 @@ public class ChessBoardPattern {
                     if (j % 2 == 0) {
                         st += "WW";
                         st += "|";
-//                        System.out.print("WW");
-//                        System.out.print("|");
                     } else {
                         st += "BB";
                         st += "|";
-//                        System.out.print("BB");
-//                        System.out.print("|");
                     }
 
                 }
@@ -35,13 +39,9 @@ public class ChessBoardPattern {
                     if (j % 2 == 0) {
                         st += "BB";
                         st += "|";
-//                        System.out.print("BB");
-//                        System.out.print("|");
                     } else {
                         st += "WW";
                         st += "|";
-//                        System.out.print("WW");
-//                        System.out.print("|");
                     }
 
                 }
@@ -49,20 +49,12 @@ public class ChessBoardPattern {
                 str=str+st;
                 str=str+"\n";
                 st = "";
-//                System.out.println();
             }
-
 
         }
         return str;
     }
 
-    public static void main(String[] args) {
-        String str;
-        ChessBoardPattern obj = new ChessBoardPattern();
-        str = obj.chessBoardPattern();
-        System.out.println(str);
-    }
 }
 
 

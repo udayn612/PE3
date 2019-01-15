@@ -15,12 +15,12 @@ public class AdditionofTwoMatrixTest {
     int b[][]={{1,2},{3,4},{5,6}};
     int c[][]={{9,8},{7,6},{5,4}};
 
-    AdditionofTwoMatrix aa;
+    AdditionofTwoMatrix additionofTwoMatrix;
 
 
     @Before
     public void setUp() throws Exception {
-        aa=new AdditionofTwoMatrix();
+        additionofTwoMatrix=new AdditionofTwoMatrix();
     }
 
     @After
@@ -33,13 +33,13 @@ public class AdditionofTwoMatrixTest {
     public void compareMatrixSuccess()
     {
 
-        assertArrayEquals(a,aa.addTwoMatrix(b,c,3,2));
+        assertArrayEquals(a,additionofTwoMatrix.addTwoMatrix(b,c,3,2));
     }
     @Test
     public void compareMatrixFailure()
     {
 
-        assertNotEquals(d,aa.addTwoMatrix(b,c,3,2));
+        assertNotEquals(d,additionofTwoMatrix.addTwoMatrix(b,c,3,2));
     }
 
 }

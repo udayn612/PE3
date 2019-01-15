@@ -4,6 +4,13 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
+/**TWrite a java program to calculate first and last date of a week.
+ *
+ * @version 1.0 11-1-2018
+ *
+ * @author Uday N
+ */
+
 public class FirstAndLastDateOfWeek {
 
     public  String firstDateofWeek()
@@ -25,13 +32,6 @@ public class FirstAndLastDateOfWeek {
         }
         return df.format(c.getTime());
 
-    }
-
-    public static void main(String []args){
-
-        FirstAndLastDateOfWeek firstAndLastDateOfWeek =new FirstAndLastDateOfWeek();
-        System.out.println("First "+firstAndLastDateOfWeek.firstDateofWeek());
-        System.out.println("Last "+firstAndLastDateOfWeek.lastDateofWeek());
     }
 }
 

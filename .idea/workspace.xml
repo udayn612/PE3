@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ad2cec-220f-4cc0-9dda-1748839860bd" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="09dd85e7-eb8d-4ab1-ad11-817729a53e33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/quickstart/JunitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/JunitDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/quickstart/JunitDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/asserts/EmployeeEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/asserts/EmployeeEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/asserts/MyJavaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/asserts/MyJavaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/matchers/MatchersDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/matchers/MatchersDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/mockito/InsufficientProductsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/mockito/InsufficientProductsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/mockito/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/mockito/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/mockito/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/mockito/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/mockito/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/mockito/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/parameterized/EmailIdUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/parameterized/EmailIdUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/quickstart/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/quickstart/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/asserts/EmployeeEmailAnnotationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/asserts/EmployeeEmailAnnotationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/asserts/EmployeeEmailTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/asserts/EmployeeEmailTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/asserts/MyJavaClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/asserts/MyJavaClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/CollectionMatchersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/CollectionMatchersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/MatchersDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/MatchersDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/NumberMatchersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/NumberMatchersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/TextComparisionMatchersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/TextComparisionMatchersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationAnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationAnnotationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoStubbingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoStubbingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoVerificationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoVerificationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/ProductServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/ProductServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIDCreatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIDCreatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIdValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIdValidatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/quickstart/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/quickstart/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/quickstart/AppTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/quickstart/AppTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/testsuite/EmployeeEmailTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/testsuite/EmployeeEmailTestSuite.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,212 +43,165 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/company/RemoveVowelsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/company/StudentMarksTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/company/ChessBoardPatternTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/company/ConsecutiveCheckTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-              <folding>
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/company/FirstAndLastDateOfWeekTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="77" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
-              <folding>
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/company/FirstExceptionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/ConsecutiveCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/company/GeneralExceptionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/company/AdditionofTwoMatrixTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/AdditionofTwoMatrix.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/quickstart/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="31" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoStubbingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="30" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoVerificationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="11" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIDCreatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="17" selection-start-column="2" selection-end-line="35" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIdValidatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="13" selection-start-column="2" selection-end-line="37" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/ProductServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="15" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationAnnotationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="21" selection-start-column="2" selection-end-line="23" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="7" selection-start-column="2" selection-end-line="20" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/NumberMatchersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="11" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/TextComparisionMatchersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="7" selection-end-line="38" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="JUnit4 Test Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AdditionofTwoMatrix.java" />
-        <option value="$PROJECT_DIR$/src/StudentMarks.java" />
-        <option value="$PROJECT_DIR$/src/FirstAndLastDateOfWeek.java" />
-        <option value="$PROJECT_DIR$/src/RemoveVowels.java" />
-        <option value="$PROJECT_DIR$/src/ChessBoardPattern.java" />
-        <option value="$PROJECT_DIR$/Test/ChessBoardPatternTest.java" />
-        <option value="$PROJECT_DIR$/src/com/company/GeneralException.java" />
-        <option value="$PROJECT_DIR$/src/com/company/StudentMarks.java" />
-        <option value="$PROJECT_DIR$/Test/com/company/FirstExceptionTest.java" />
-        <option value="$PROJECT_DIR$/Test/com/company/GeneralExceptionTest.java" />
-        <option value="$PROJECT_DIR$/Test/com/company/StudentMarksTest.java" />
-        <option value="$PROJECT_DIR$/src/com/company/AdditionofTwoMatrix.java" />
-        <option value="$PROJECT_DIR$/src/com/company/FirstException.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ChessBoardPattern.java" />
-        <option value="$PROJECT_DIR$/Test/com/company/ChessBoardPatternTest.java" />
-        <option value="$PROJECT_DIR$/Test/com/company/ConsecutiveCheckTest.java" />
-        <option value="$PROJECT_DIR$/Test/com/company/FirstAndLastDateOfWeekTest.java" />
-        <option value="$PROJECT_DIR$/src/com/company/RemoveVowels.java" />
-        <option value="$PROJECT_DIR$/Test/com/company/RemoveVowelsTest.java" />
-        <option value="$PROJECT_DIR$/src/com/company/FirstAndLastDateOfWeek.java" />
-        <option value="$PROJECT_DIR$/Test/com/company/AdditionofTwoMatrixTest.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ConsecutiveCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/quickstart/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/CollectionMatchersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/MatchersDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/NumberMatchersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/TextComparisionMatchersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationAnnotationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoStubbingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoVerificationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/ProductServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIDCreatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIdValidatorTest.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="174" />
-    <option name="width" value="1112" />
-    <option name="height" value="728" />
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="1161" />
+    <option name="height" value="636" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PE3" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PE3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PE3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PE3" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PE3" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547017809168" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jar/junit-4.12.jar!/" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546251703044" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.company" />
-      <recent name="" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.company" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -230,82 +215,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AdditionofTwoMatrixTest.sumofmatricesfailure1">
-    <configuration name="AdditionofTwoMatrixTest.compareMatrixFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE3" />
+  <component name="RunManager" selected="JUnit.AppTest">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.stackroute.unittest.quickstart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.AdditionofTwoMatrixTest" />
-      <option name="METHOD_NAME" value="compareMatrixFailure" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest.quickstart" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.quickstart.AppTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdditionofTwoMatrixTest.compareMatrixSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE3" />
+    <configuration name="AppTest.testConcatAndConvertStringIsNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.stackroute.unittest.quickstart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.AdditionofTwoMatrixTest" />
-      <option name="METHOD_NAME" value="compareMatrixSuccess" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AdditionofTwoMatrixTest.sumofmatricesfailure1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.AdditionofTwoMatrixTest" />
-      <option name="METHOD_NAME" value="sumofmatricesfailure1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveVowelsTest.removeVowelCheckFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.RemoveVowelsTest" />
-      <option name="METHOD_NAME" value="removeVowelCheckFailure" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveVowelsTest.removeVowelCheckSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.RemoveVowelsTest" />
-      <option name="METHOD_NAME" value="removeVowelCheckSuccess" />
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest.quickstart" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.quickstart.AppTest" />
+      <option name="METHOD_NAME" value="testConcatAndConvertStringIsNotNull" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -313,11 +251,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AdditionofTwoMatrixTest.sumofmatricesfailure1" />
-        <item itemvalue="JUnit.AdditionofTwoMatrixTest.compareMatrixSuccess" />
-        <item itemvalue="JUnit.AdditionofTwoMatrixTest.compareMatrixFailure" />
-        <item itemvalue="JUnit.RemoveVowelsTest.removeVowelCheckFailure" />
-        <item itemvalue="JUnit.RemoveVowelsTest.removeVowelCheckSuccess" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.AppTest.testConcatAndConvertStringIsNotNull" />
       </list>
     </recent_temporary>
   </component>
@@ -326,49 +261,48 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96ad2cec-220f-4cc0-9dda-1748839860bd" name="Default Changelist" comment="" />
-      <created>1546837598762</created>
+      <changelist id="09dd85e7-eb8d-4ab1-ad11-817729a53e33" name="Default Changelist" comment="" />
+      <created>1546248150103</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546837598762</updated>
+      <updated>1546248150103</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConsecutiveCheckTest_checkConsecutiveSuccess - 2019.01.07 at 16h 41m 48s.xml">
-      <configuration name="ConsecutiveCheckTest.checkConsecutiveSuccess" configurationId="JUnit" />
+    <history-entry file="AppTest - 2018.12.31 at 15h 02m 31s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkConsecutiveFailure - 2019.01.07 at 16h 41m 51s.xml">
-      <configuration name="ConsecutiveCheckTest.checkConsecutiveFailure" configurationId="JUnit" />
+    <history-entry file="AppTest - 2018.12.31 at 15h 05m 41s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstAndLastDateOfWeekTest_checkfirstDateofWeek - 2019.01.07 at 16h 49m 17s.xml">
-      <configuration name="FirstAndLastDateOfWeekTest.checkfirstDateofWeek" configurationId="JUnit" />
+    <history-entry file="AppTest - 2018.12.31 at 15h 07m 29s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstAndLastDateOfWeekTest_checkLastDateofWeek - 2019.01.07 at 16h 49m 20s.xml">
-      <configuration name="FirstAndLastDateOfWeekTest.checkLastDateofWeek" configurationId="JUnit" />
+    <history-entry file="AppTest - 2018.12.31 at 15h 08m 36s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveVowelsTest_removeVowelCheckSuccess - 2019.01.07 at 16h 51m 09s.xml">
-      <configuration name="RemoveVowelsTest.removeVowelCheckSuccess" configurationId="JUnit" />
+    <history-entry file="AppTest - 2018.12.31 at 15h 09m 31s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveVowelsTest_removeVowelCheckFailure - 2019.01.07 at 16h 51m 48s.xml">
-      <configuration name="RemoveVowelsTest.removeVowelCheckFailure" configurationId="JUnit" />
+    <history-entry file="AppTest - 2018.12.31 at 15h 44m 40s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveVowelsTest_removeVowelCheckFailure - 2019.01.07 at 16h 52m 01s.xml">
-      <configuration name="RemoveVowelsTest.removeVowelCheckFailure" configurationId="JUnit" />
+    <history-entry file="AppTest - 2018.12.31 at 15h 45m 13s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdditionofTwoMatrixTest_compareMatrixFailure - 2019.01.09 at 12h 35m 34s.xml">
-      <configuration name="AdditionofTwoMatrixTest.compareMatrixFailure" configurationId="JUnit" />
+    <history-entry file="AppTest_testConcatAndConvertStringIsNotNull - 2018.12.31 at 15h 46m 16s.xml">
+      <configuration name="AppTest.testConcatAndConvertStringIsNotNull" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdditionofTwoMatrixTest_compareMatrixSuccess - 2019.01.09 at 12h 35m 37s.xml">
-      <configuration name="AdditionofTwoMatrixTest.compareMatrixSuccess" configurationId="JUnit" />
+    <history-entry file="AppTest - 2018.12.31 at 15h 47m 06s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdditionofTwoMatrixTest_sumofmatricesfailure1 - 2019.01.09 at 12h 36m 43s.xml">
-      <configuration name="AdditionofTwoMatrixTest.sumofmatricesfailure1" configurationId="JUnit" />
+    <history-entry file="AppTest - 2018.12.31 at 15h 48m 15s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -392,167 +326,113 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32960895" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3291536" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/ChessBoardPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/asserts/MyJavaClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstAndLastDateOfWeek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/quickstart/JunitDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" selection-end-line="24" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/quickstart/App.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/GeneralException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/StudentMarks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/RemoveVowels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/AdditionofTwoMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/company/AdditionofTwoMatrixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/company/ChessBoardPatternTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/asserts/EmployeeEmail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/company/FirstExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/company/GeneralExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/company/RemoveVowelsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/company/StudentMarksTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/company/FirstAndLastDateOfWeekTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="77" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
-          <folding>
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/company/ConsecutiveCheckTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding>
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ConsecutiveCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/CollectionMatchersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="15" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/MatchersDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="11" lean-forward="true" selection-start-column="2" selection-end-line="40" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/quickstart/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoStubbingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockitoVerificationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIDCreatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="17" selection-start-column="2" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/parameterized/EmailIdValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="13" selection-start-column="2" selection-end-line="37" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/ProductServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="15" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationAnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" selection-start-column="2" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/mockito/MockCreationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" selection-start-column="2" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/NumberMatchersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="11" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/matchers/TextComparisionMatchersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" selection-end-line="38" />
         </state>
       </provider>
     </entry>
@@ -608,7 +488,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>PE3</last-edited>
+          <last-edited>main</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -633,7 +513,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>junit-4.12</last-edited>
+          <last-edited>hamcrest-core-1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

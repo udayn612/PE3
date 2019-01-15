@@ -1,5 +1,13 @@
 package com.company;
 
+
+/**Write a program that will generate exceptions of type NegativeArraySizeException, IndexOutOfBoundsException, NullPointerException.
+ * Record the catching of each exception by displaying the message stored in the exception object.
+ * @version 1.0 11-1-2018
+ *
+ * @author Uday N
+ */
+
 public class GeneralException {
 
     public int x=10;

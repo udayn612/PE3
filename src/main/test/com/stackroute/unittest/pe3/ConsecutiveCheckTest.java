@@ -7,11 +7,11 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class ConsecutiveCheckTest {
-    ConsecutiveCheck obj;
+    ConsecutiveCheck consecutiveCheck;
 
     @Before
     public void setUp() throws Exception {
-        obj=new ConsecutiveCheck();
+        consecutiveCheck=new ConsecutiveCheck();
     }
 
     @After
@@ -20,11 +20,11 @@ public class ConsecutiveCheckTest {
 
     @Test
     public void checkConsecutiveSuccess() {
-        assertEquals(true,obj.checkConsecutive("96,95,94,93"));
+        assertEquals(true,consecutiveCheck.checkConsecutive("96,95,94,93"));
     }
 
     @Test
     public void checkConsecutiveFailure() {
-        assertNotEquals(true,obj.checkConsecutive("98,96,95,94,93"));
+        assertNotEquals(true,consecutiveCheck.checkConsecutive("98,96,95,94,93"));
     }
 }

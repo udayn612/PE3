@@ -3,6 +3,14 @@ package com.company;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**Write a program to find out if a series of 7 digits are consecutive numbers.
+ *  To make this easier, assume the digits are a string and use split()
+ *
+ * @version 1.0 11-1-2018
+ *
+ * @author Uday N
+ */
+
 public class ConsecutiveCheck {
 
     public  boolean checkConsecutive(String input)
@@ -22,13 +30,5 @@ public class ConsecutiveCheck {
         }
         return false;
 
-    }
-
-
-    public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        String input=sc.next();
-        ConsecutiveCheck obj =new ConsecutiveCheck();
-        System.out.println(obj.checkConsecutive(input));
     }
 }

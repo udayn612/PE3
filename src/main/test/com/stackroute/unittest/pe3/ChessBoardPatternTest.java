@@ -17,11 +17,11 @@ public class ChessBoardPatternTest {
             "WW|BB|WW|BB|WW|BB|WW|BB|\n"+
             "BB|WW|BB|WW|BB|WW|BB|WW|\n";
 
-    ChessBoardPattern obj;
+    ChessBoardPattern chessBoardPattern;
 
     @Before
     public void setUp() throws Exception {
-        obj=new ChessBoardPattern();
+        chessBoardPattern=new ChessBoardPattern();
     }
 
     @After
@@ -30,6 +30,6 @@ public class ChessBoardPatternTest {
 
     @Test
     public void checkChessBoardPattern() {
-        assertEquals(a,obj.chessBoardPattern());
+        assertEquals(a,chessBoardPattern.chessBoardPattern());
     }
 }
